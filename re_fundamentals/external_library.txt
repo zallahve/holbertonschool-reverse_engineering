@@ -1,1 +1,1 @@
-LIBNAME
+lib_custom_hbtn.so
